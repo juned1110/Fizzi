@@ -17,6 +17,7 @@
     "@prismicio/client": "^7.8.1",
     "@prismicio/next": "^1.6.0",
     "@prismicio/react": "^2.8.0",
+    "clsx": "^2.1.1",
     "next": "^14.2.4",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
@@ -31,6 +32,8 @@
     "eslint": "^8.57.0",
     "eslint-config-next": "^14.2.4",
     "postcss": "^8.4.45",
+    "prettier": "^3.3.3",
+    "prettier-plugin-tailwindcss": "^0.6.6",
     "slice-machine-ui": "^2.7.1",
     "tailwindcss": "^3.4.10",
     "typescript": "^5.4.5"
