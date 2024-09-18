@@ -9,7 +9,7 @@ function ViewCanvas({}: Props) {
   return (
     <>
       <Canvas
-        style={{
+        style={{ 
           position: "fixed",
           top: 0,
           left: "50%",
